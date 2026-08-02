@@ -1,4 +1,4 @@
-# Ryan Gurganious · `DarthCeltic`
+# Ryan G · `DarthCeltic`
 
 I build systems where **a compiler decides, not a model.**
 
@@ -59,4 +59,4 @@ Every one merged, measured on real silicon.
   ProgramBench after an audit retracted 62 of 67 earlier "solves."
 - **Local-first.** Your source should not have to leave your machine to get good help.
 
-📫 ryan.gurganious@gmail.com
+📫 darthceltic1985@gmail.com
