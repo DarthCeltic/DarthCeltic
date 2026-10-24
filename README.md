@@ -9,7 +9,7 @@ I build AI and research software whose results can be checked by compilers, test
 ## Selected work
 
 - **[Determinex](https://github.com/DarthCeltic/Determinex)** — Open-source, local-first coding agent that uses compiler and test-suite results as correctness oracles. [AGPL-3.0-or-later](https://github.com/DarthCeltic/Determinex/blob/main/LICENSE).
-- **[ARGUS](https://github.com/Cinder-Covenant/ARGUS)** — Provenance-aware workbench for Herculaneum CT research workflows, including data, geometry, rendering, and reproducibility tools.
+- **[ARGUS](https://github.com/DarthCeltic/argus)** — Provenance-aware workbench for Herculaneum CT research workflows, including data, geometry, rendering, and reproducibility tools.
 - **[Herculaneum Scroll Tools](https://github.com/DarthCeltic/herculaneum-scroll-tools)** — Tools for dual-energy ink-contrast analysis and cross-scan registration.
 
 ## Awards
