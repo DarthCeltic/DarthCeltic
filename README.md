@@ -1,3 +1,4 @@
+<p align="center">
 <img width="512" height="512" alt="DarthCeltic Logo" src="https://github.com/user-attachments/assets/1522ccab-f3a4-4b18-b10b-9a2f795654f3" />
 
 # Ryan J. Gurganious
