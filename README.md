@@ -9,7 +9,7 @@ I build AI and research software whose results can be checked by compilers, test
 
 *Nov 2026: MathCase is public — a provenance-first formal mathematics system (Lean 4). ARGUS is public. Core work: Determinex, correctness infrastructure for AI-assisted engineering.*
 
-[LinkedIn](https://www.linkedin.com/in/ryan-gurganious/) · [Email](mailto:darthceltic1985@gmail.com)
+[Portfolio](https://darthceltic.github.io/) · [LinkedIn](https://www.linkedin.com/in/ryan-gurganious/) · [Email](mailto:darthceltic1985@gmail.com)
 
 ## Awards
 
@@ -19,9 +19,9 @@ I build AI and research software whose results can be checked by compilers, test
 
 ## Selected work
 
-- **[Determinex](https://github.com/DarthCeltic/Determinex)** — Open-source, local-first coding agent that uses compiler and test-suite results as correctness oracles. [AGPL-3.0-or-later](https://github.com/DarthCeltic/Determinex/blob/main/LICENSE).
-- **[MathCase](https://darthceltic.github.io/)** — Provenance-first system for proposing, verifying (Lean 4 kernel plus axiom audit), and explaining mathematical proofs, with every result preserved in an independently reviewable dossier. Public since Oct 30, 2026. [Repo](https://github.com/DarthCeltic/MathCase) · [Apache-2.0](https://github.com/DarthCeltic/MathCase/blob/main/LICENSE).
-- **[ARGUS](https://github.com/DarthCeltic/argus)** — Provenance-aware workbench for Herculaneum CT research workflows, including data, geometry, rendering, and reproducibility tools.
+- **[Determinex](https://darthceltic.github.io/determinex/)** — Open-source, local-first coding agent that uses compiler and test-suite results as correctness oracles. [AGPL-3.0-or-later](https://github.com/DarthCeltic/Determinex/blob/main/LICENSE).
+- **[MathCase](https://darthceltic.github.io/mathcase/)** — Provenance-first system for proposing, verifying (Lean 4 kernel plus axiom audit), and explaining mathematical proofs, with every result preserved in an independently reviewable dossier. Public since Oct 30, 2026. [Repo](https://github.com/DarthCeltic/MathCase) · [Apache-2.0](https://github.com/DarthCeltic/MathCase/blob/main/LICENSE).
+- **[ARGUS](https://darthceltic.github.io/argus/)** — Provenance-aware workbench for Herculaneum CT research workflows, including data, geometry, rendering, and reproducibility tools.
 - **[Herculaneum Scroll Tools](https://github.com/DarthCeltic/herculaneum-scroll-tools)** — Tools for dual-energy ink-contrast analysis and cross-scan registration.
 
 ## Selected upstream contributions
